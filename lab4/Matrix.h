@@ -1,5 +1,5 @@
 /** \file Matrix.h
- *
+ * \brief 0-based matrix library
  *
  *
  *
