@@ -1,8 +1,8 @@
 /** \file main.cpp
- *
- *
- *
- *
+ * \author Elizaveta Vasilieva
+ * \brief this program allows the user to print an array 'matrix' through a menu
+ * \date May 2025
+ * \copyright University of Nicosia.
  */
 
 #include "Matrix.h"
